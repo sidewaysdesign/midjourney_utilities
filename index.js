@@ -1,3 +1,4 @@
+alert(7)
 const style = document.createElement('style')
 const fadeOutTime = 1750
 let zoomMode = 0 // 0 = 1x, 1 = 2x, 2 = fill
